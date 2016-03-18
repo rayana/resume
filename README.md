@@ -3,6 +3,7 @@
 
 **Amsterdam, North-Holland**  
 [rayanaverissimo.com](http://www.rayanaverissimo.com)  
+[linkedin.com/rayanaverissimo](http://linkedin.com/in/rayanaverissimo)  
 [rayanaverissimo@gmail.com](mailto:rayanaverissimo@gmail.com)  
 +31 6 1120 5948
 
@@ -15,14 +16,18 @@ I am always seeking for an opportunity to work on challenging projects that will
 
 ##Skills
 
+* User Interface Design
+* User Experience
+* Wireframing
 * HTML
 * Responsive Design (Mobile First)
 * CSS (Sass, Less)
-* Css Frameworks (Bootstrap, Bourbon)
+* CSS Frameworks (Bootstrap, Bourbon)
 * Git
 * Photoshop, Illustrator, Sketch
-* Balsamiq, Axure
+* Balsamiq, Axure, OmniGraffle
 * Scrum
+* Agile
 
 ## Work Experience
 
