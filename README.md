@@ -1,16 +1,20 @@
 # Rayana Verissimo
-##User Interface Engineer
-
-**Amsterdam, North-Holland**  
-[rayanaverissimo.com](http://www.rayanaverissimo.com)  
-[linkedin.com/rayanaverissimo](http://linkedin.com/in/rayanaverissimo)  
-[rayanaverissimo@gmail.com](mailto:rayanaverissimo@gmail.com)  
-+31 6 1120 5948
+###User Interface Engineer
 
 ---
 
+## Contact
+**Amsterdam, North-Holland**  
+[rayanaverissimo.com](http://www.rayanaverissimo.com)  
+[rayanaverissimo@gmail.com](mailto:rayanaverissimo@gmail.com)  
+[linkedin.com/rayanaverissimo](http://linkedin.com/in/rayanaverissimo)  
+[github.com/rayana](http://github.com/rayana)  
++31 6 1120 5948
+
 ##About Me
-Designer with a passion for digital, I take pride in the quality of my deliverables - intuitive web user interfaces. With experience building out web applications (mobile and desktop) and high-level designs within an Agile environment, I work in multiple projects as key player in a multidisciplinary, collaborative, fast-paced environment.
+Designer with a passion for digital, I take pride in the quality of my deliverables - intuitive web user interfaces. My focus is on software development and user interface engineering, producing visual designs and translating it into engaging experiences.
+
+With experience building out web applications and high-level designs within an Agile environment, I work in multiple projects as key player in a multidisciplinary, collaborative, fast-paced environment. 
 
 I am always seeking for an opportunity to work on challenging projects that will allow to grow my network with creative and talented people.
 
