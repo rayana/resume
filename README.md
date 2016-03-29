@@ -40,13 +40,13 @@ I am always seeking for an opportunity to work on challenging projects that will
 
 Designing attractive, user-friendly interfaces for cross-platform web applications, while still doing the odd bit of coding.
 
-**Product Manager** - FacilityApps  
+**Product Manager - UI/UX Designer** - FacilityApps  
 Purmerend, Netherlands | Jan 2016 - Present  
 
-* Managing web & mobile applications as product owner, ensuring end-to-end product delivery.
+* Managing web & mobile applications as product manager, ensuring end-to-end product delivery.
 * Responsible for redesigning the experience of FacilityApps SAAS and mobile applications (iOS, Android & Windows Phone) for cleaning and facility solutions.
 * Responsible for advocating and supporting User Centered Design processes and methods accross the company.
-* Responsible for capturing and prioritizing all feature requirements for the development team, producing user stories, functional requirements, workflow diagrams and wireframes - using Axure, Sketch, XMinds, agile development management in Jira.
+* Responsible for capturing and prioritizing all feature requirements for the development team, producing user stories, functional requirements, workflow diagrams and wireframes - using Axure, Sketch, XMinds, agile development management in Jira - and providing high-fidelity mockups of the interface.
 * Working to create interaction and design standards across the applications by designing a UI Library, customized on top of Bootstrap.
 * Managing a small team of developers, in-house and remote, holding ownership of the resource planning and communication with the company directors.
 
