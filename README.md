@@ -5,7 +5,6 @@ UI/UX Engineer |Amsterdam, The Netherlands
 [linkedin.com/rayanaverissimo](http://linkedin.com/in/rayanaverissimo)  
 [github.com/rayana](http://github.com/rayana)
 
-## Profile
 Rayana has been producing top quality, user-driven interfaces for over 9 years - from one person startups to Fortune 500 enterprises. With a background in Graphic Design, her strength lies in UI Design and Engineering, hands-on HTML and Sass (CSS) - bridging the design/development gap.
 
 Her current role at Backbase is to lead the design efforts of the Backbase Design System team, which is a group fully dedicated to working on a UI components library, documenting design patterns, and producing deliverables for in-house designers and partners.
