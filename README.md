@@ -1,141 +1,110 @@
 # Rayana Verissimo
-> UI/UX Engineer  |  Amsterdam, The Netherlands
-
-
-## Contact
+UI/UX Engineer |Amsterdam, The Netherlands
 [rayanaverissimo.com](http://www.rayanaverissimo.com)  
 [rayanaverissimo@gmail.com](mailto:rayanaverissimo@gmail.com)  
 [linkedin.com/rayanaverissimo](http://linkedin.com/in/rayanaverissimo)  
-[github.com/rayana](http://github.com/rayana)  
-+31 6 1120 5948
-
+[github.com/rayana](http://github.com/rayana)
 
 ## Profile
-Designer with a passion for digital, I take pride in the quality of my deliverables - intuitive web user interfaces. My focus is on software development and user interface engineering, producing visual designs and translating it into engaging experiences, hands-on coding with HTML & CSS.
+Rayana has been producing top quality, user-driven interfaces for over 9 years - from one person startups to Fortune 500 enterprises. With a background in Graphic Design, her strength lies in UI Design and Engineering, hands-on HTML and Sass (CSS) - bridging the design/development gap.
 
-With experience building out web applications and high-level designs within an Agile environment, I work in multiple projects as key player in a multidisciplinary, collaborative, fast-paced environment.
+Her current role at Backbase is to lead the design efforts of the Backbase Design System team, which is a group fully dedicated to working on a UI components library, documenting design patterns, and producing deliverables for in-house designers and partners.
 
-I am always seeking for an opportunity to work on challenging projects that will allow to grow my network with creative and talented people.
-
-### Skills
-
-* User Interface Design
-* User Experience
-* Design Systems and Pattern Libraries
-* HTML
-* CSS (Sass, Less)
-* CSS Frameworks (Bootstrap, Bourbon)
-* Web Accessibility
-* Responsive Design (Mobile First)
-* Git
-* Graphic Design
-* Wireframing and Prototyping
-* Sketch, Photoshop, Illustrator
-* Balsamiq, Axure, OmniGraffle
-* Scrum
-* Agile
+With experience building out web applications and high-level designs within an Agile set-up, Rayana works on multiple projects as a key player in a multidisciplinary, fast-paced environment. She is always seeking for an opportunity to work on challenging projects that will allow growing her network with creative and talented people.
 
 ---
 
-## Work Experience
-#### Lead UI/UX Designer - Backbase
-Amsterdam, Netherlands | Aug 2017 - Present
-Responsible for leading the design efforts of our Backbase Design System team, which is a group fully dedicated to working on our UI components library, documenting design patterns, and producing visual deliverables for in-house designers and partners.
+## WORK EXPERIENCE
 
-#### UX Designer - Backbase
-Amsterdam, Netherlands | Oct 2016 - Aug 2017
-Translating product goals into UX. Bringing design closer to development. Lead product designer of Business and Corporate Banking projects at Backbase. Responsible for the requirements management, wireframing and documentation for DEVs and QAs. Working with multiple Scrum teams across Europe.
+**Backbase**, Amsterdam, Netherlands | [www.backbase.com](www.backbase.com)
+**Lead UI/UX Engineer - Backbase Design** System, August 2017 - present
+* Currently leading the design efforts of the Backbase Design System by participating in the product definition, strategy, implementation and adoption of the system. Facilitating design review with stakeholders across the company and collaborating with marketing.
+* Empowered the design process of ~22 inhouse designers, partners and clients by improving a modular Design Kit (in Sketch) based on research and analysis.
+* Migrated existing UI components from Bootstrap v3 to v4 and documented guidelines on how to write accessible markup and manageable, clean CSS.
+* Trained fellow product designers in HTML and Bootstrap to increase team productivity.
 
-Responsible for initiating and mantaining the Product Design Guidelines - a set of flexible and consistent interactions used across Backbase products. Documented design decisions and kicked-off discussions across the product team to identify and improve interaction models and patterns, with focus on customer needs, flow and structure.
+**Backbase**, Amsterdam, Netherlands | [www.backbase.com](www.backbase.com)
+**UX Designer**, October 2016 to August 2017
+* Kickstarted and maintained the Product Design Guidelines used across products.
+* Engineered a UI Library in Sketch for product designers to improve prototyping and add consistency to existing components in the application.
+* Supported front-end teams by designing, documenting and helping implement components (AngularJS, Bootstrap), with hands-on coding in HTML5 and CSS3.
+* Managed requirements, conducted usability tests, developed wireframing and documentation of Business Banking applications. Collaborated with product managers, business partners and engineers to help define product requirements and roadmap.
 
-On top of the UX Designer responsibilities, I am also responsible for supporting front-end development teams by designing and building a UI Pattern Library and its components (built on top of AngularJS and Bootstrap), with hands-on coding in HTML5, CSS3 (SASS and LESS). In addition, I am the main designer contributing to a Git repository, feeding design changes back into the engine, and for the code review of the CSS done by front end developers, advocating for clean, manageable and scalable stylesheets.
+**CESAR**, Recife, Brazil | [www.cesar.org.br/en](www.cesar.org.br/en)
+**UI Engineer**, February 2014 to December 2015
+* Helped build a UI Pattern Library on top of the Bourbon and Ember.js frameworks, as well as a reusable set of accessible and content oriented markup patterns for a system application tool used by 20.000+ users.
+* Designed the application's User Interface Guidelines for web accessibility.
+* Engineered a UI Library in Sketch for rapid prototyping of existing components in the application used by 15+ designers.
+* Analysed requirements, estimated UI development efforts and planned implementation.
+* Performed unity testing of UI components and worked with QA and engineering teams to investigate and resolve production issues.
 
-#### Freelance User Interface Engineer
-[rayana.github.io](http://www.rayana.github.io)  
-2010 – Present  
+**Gomo**, Recife, Brazil
+**Co-founder, creative and web designer**, November 2010 to January 2015
+* Responsible for project management, conceptualization, creative direction and implementation of a wide range of cross-media projects involving branding, UI design, and digital marketing for numerous clients in the northeast area of Brazil.
 
-Designing attractive, user-friendly interfaces for cross-platform web applications, while still doing the odd bit of coding.
+**Caju**, Recife, Brazil | [www.caju.ag](www.caju.ag)
+**Web Art Director**, September 2012 to July 2013
+* Prototyped and designed responsive websites and iOS/Android applications. Created designs for email marketing, banners, ads, Facebook and Instagram business profiles.
 
-#### User Interface Engineer - CESAR: Recife Center for Advanced Studies and Systems  
-Recife, Brazil | Feb 2014 - December 2015  
+**Zquatro Studio**, Recife, Brazil | [www.zquatro.com](www.zquatro.com)
+**Web Art Director**, May 2011 to September 2012
+* Prototyped and designed websites. Communicated ideas using mockups using code.
 
-Collaborated with the design and engineering teams to design web applications using Agile methodologies for one of the biggest worldwide technology companies - projects are under NDA.
+**Casullo Agência Digital**, Recife, Brazil | [www.casulloweb.com.br](www.casulloweb.com.br)
+**Web Designer**, March 2010 to April 2011
+* Developed layouts and graphic interfaces for websites, iOS applications, newsletters, and delivered thorough design specs for engineers to implement. Experienced Flash programming and Game Design.
+* Established style guide for digital projects.
 
-Helped to build a consistent UI Pattern Library on top of Bourbon and Ember.js frameworks, as well as a reusable set of accessible and content oriented markup patterns for a system application tool. Hands-on coding in HTML5, CSS3 (SASS and LESS).
+**Instituto Federal de Pernambuco**, Recife, Brazil | [www.ifpe.edu.br/campus/recife](www.ifpe.edu.br/campus/recife)
+**Graphic & Editorial Designer**, May 2009 to December 2009
+* Selected out of 40 as one of 2 participants as Researcher of the Editorial Center based on academic success. Responsible for editorial design and layout of booklets used by long-distance education programs.
 
-Responsible for designing the application's User Interface Guidelines for web accessibility. Designed web components for visually impaired users and made design considerations and validated the system's accessibility using assistive technologies.
-
-#### Creative, Web & Visual Designer - GOMO Agência Digital  
-Recife, Brazil | Nov 2010 – Jan 2015  
-
-Co-founder of Gomo, a web design studio specializing in the communication sector. Working with a dynamic team of freelancers, Gomo improved the marketing of numerous local businesses in Recife, and offered a range of services from website and hotsite development & management, blog design, branding, online campaigns, and social media management.
-
-#### Web Art Director - Caju Agência Digital  
-Recife, Brazil | Sep 2012 – Jul 2013  
-
-Web Art Director and Visual Designer. Planned the development, prototyped, and designed responsive websites and mobile applications, from the creation of the wireframe to the presentation of the deliverables to the development team, to offer a unique experience to the users.
-
-#### Web Art Director - ZQuatro Studio  
-Recife, Brazil | May 2011 – Sep 2012  
-
-Web and Visual designer, responsible for the conceptualization, design, and prototyping of numerous corporate websites and news portals.
-
-#### Web Designer - Casullo Agência Digital  
-Recife, Brazil | Mar 2010 - Abr 2011  
-
-Web & Graphic Designer, developing layouts and graphical interfaces for websites, iOS applications, hotsites, intranets, newsletters, and implemented websites in Wordpress. Created print and digital collaterals for various marketing campaigns and developed layouts for Facebook apps, as well as graphics for social media marketing campaigns.
+**Graphic Design Intern**, August 2008 to October 2008
+* Produced promotional materials such as posters, banners and presentations. Designed the visual identity and printed materials for the admission exams of 2009.
 
 ---
 
-### Selected Talks
-* Ladies That UX Amsterdam
+## EDUCATION
+**Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco** | 2008 to 2010
+Graphic Design | Concentration: Web Design
+
+**Estácio** | 2015
+Postgraduate in Communication and Marketing in Digital Media
+
+---
+
+## COURSES
+* **2018: Design Systems with Brad Frost** | London, UK
+* **2017: Lean UX and Agile - Nielsen Norman Group** | London, UK
+* **2017: Usability Testing - Nielsen Norman Group** | London, UK
+* **2013: Intensive English Course** | EC Boston | Boston, MA - USA
+* **2012: Experimental Analog Photography** | Corisco Academia | Recife, Brazil  
+* **2009: Stone Lithography** | UFPE - Federal University of Pernambuco 
+
+---
+
+## VOLUNTEERING
+* Ladies That UX Amsterdam - Mentorship Program (Mentor) | 2018
+
+---
+
+## SELECTED TALKS
+* Ladies That UX Amsterdam: Empowering product growth with a design system
 * Backbase Design Day 2017
 
 ---
 
-### Publications & Awards
-* **2017 Davey Awards**
-Burn to Earn #ThaiFitChallenge: Integrated Campaign Gold Award Winner (Collaboration with Gourmet Marketing)
-
-* **2017 Davey Awards**
-Burn to Earn #ThaiFitChallenge: Tourism Website Silver Award Winner (Collaboration with Gourmet Marketing)
-
-* **2016 Web Marketing Association**
-Burn to Earn microsite for the Tourism Authority of Thailand: Mobile Standard of Excellence (Collaboration with Gourmet Marketing)
-
-* **2016 Web Marketing Association** Burn to Earn microsite for the Tourism Authority of Thailand: Travel Standard of Excellence (Collaboration with Gourmet Marketing)
-
-* **2014 Marco Zero** Portfolio Review #6: Rayana Verissimo
+## PUBLICATIONS & AWARDS
+* **2017: Davey Awards** | Burn to Earn #ThaiFitChallenge: Integrated Campaign Gold Award Winner (Collaboration with Gourmet Marketing)
+* **2017: Davey Awards** | Burn to Earn #ThaiFitChallenge: Tourism Website Silver Award Winner (Collaboration with Gourmet Marketing)
+* **2016: Web Marketing Association** | Burn to Earn microsite for the Tourism Authority of Thailand: Mobile Standard of Excellence (Collaboration with Gourmet Marketing)
+* **2016: Web Marketing Association** | Burn to Earn microsite for the Tourism Authority of Thailand: Travel Standard of Excellence (Collaboration with Gourmet Marketing)
+* **2014: Marco Zero** | Portfolio Review #6: Rayana Verissimo
 
 ---
 
-### Education
-* **Master in Communication and Marketing in Digital Media** - Universidade Estácio de Sá  
-2015 - on hold
-
-* **Graphic Design** - IFPE - Insituto Federal de Educação, Ciência e Tecnologia de Pernambuco  
-2008 - 2010
-
-### Courses
-* **2017: Lean UX and Agile - Nielsen Norman Group**
-London, UK
-
-* **2017: Usability Testing - Nielsen Norman Group (2017)**
-London, UK
-
-* **2013: Intensive English Course**  
-EC Boston | Boston, MA - USA  
-
-* **2012: Experimental Analog Photography**  
-Corisco Academia | Recife, Brazil  
-
-* **2009: Stone Lithography**  
-UFPE - Federal University of Pernambuco  
-
----
-
-### Languages
-* Portuguese (native)
-* English (full work proficiency)
-* Spanish (conversational)
-* Japanese (basic)
+## SKILLS
+* **Competency:** UI Design, UX Design, User Centered Design, Rapid prototyping, Wireframing,  Responsive design, Mobile design patterns, Atomic Design, Site map & workflow, Usability, Problem solving, Information Architecture.\
+* **Tools:** Sketch, Photoshop, Axure, Omnigraffle, Invision, Photoshop, Illustrator, InDesign, Twitter Bootstrap, Wordpress.
+* **Technical:** HTML5, CSS3, Less, Sass, BEM methodology, Git, Ember, Angular, Bourbon, Web Accessibility, Agile project management, User Documentation.
+* **Spoken languages:** Brazilian Portuguese, English, Spanish.
